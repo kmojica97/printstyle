@@ -1,0 +1,10 @@
+<link rel="stylesheet" type="text/css" media="print" href="print.css"/>
+
+@media print {
+    body {
+    background-color: aqua;
+}
+h1 {
+    text-align: center;
+}
+    
